@@ -1,0 +1,13 @@
+this project is learn a lesson git and github.
+And do a work someday.
+
+
+Directory Structure
+assets
+    -css
+        -styles.css
+    -img
+    -js
+        -main.js
+src
+    main.html
